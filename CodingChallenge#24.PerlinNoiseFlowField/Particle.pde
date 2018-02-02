@@ -1,5 +1,6 @@
-class Particle 
-{
+// Code for: https://youtu.be/BjoM9oKOAKY
+
+class Particle {
   PVector pos = new PVector(random(width), random(height));
   PVector vel = new PVector(0, 0);
   PVector acc = new PVector(0, 0);
