@@ -1,3 +1,5 @@
+// Code for: https://youtu.be/BjoM9oKOAKY
+
 final float INC = 0.05;
 final float SCL = 10;
 int COLS, ROWS;
